@@ -16,7 +16,9 @@ Documenter des dialogues et parler à des personnes à qui je ne parlerais pas a
 Pourquoi le mot **dialogue** et pas **conversation** ? Pour moi, un _dialogue est une conversation qui est centrée sur l'écoute_ et qui a un objectif [^1]. Ce n'est pas "juste pour parler".
 
 > Le dialogue est le contraire d’une discussion, qui correspond au langage du plus fort : quand le conjoint exprime une idée, avant même qu’il ne l’ait exprimée à fond, l’autre entre en discussion. Il a son avis sur la chose, et il émet jugements et/ou  critiques. (…) Le dialogue est d’abord écoute active de ce que le conjoint vit à plusieurs niveaux (…) Quelle que soit la technique, le bon dialogue permet une rencontre des conjoints à un même niveau.
-> — Robert Henckes, Au rendez-vous de Cana, éditions Fidélité, Namur, 1999, p. 153 • via [wiktionary.org](https://fr.wiktionary.org/wiki/dialogue#Nom_commun)
+>
+> — Robert Henckes, Au rendez-vous de Cana, éditions Fidélité, Namur, 1999, p. 153
+> • via [wiktionary.org](https://fr.wiktionary.org/wiki/dialogue#Nom_commun)
 
 # Est-ce qu'on peut s'appeler toi et moi ?
 

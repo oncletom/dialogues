@@ -1,4 +1,8 @@
 ---
+authors:
+- https://framapiaf.org/@maiwann
+- https://tutut.delire.party/@marien
+- https://framapiaf.org/@oncletom
 interval: 2018-08-01T09:00+0200/2018-08-01T10:20+0200
 ---
 

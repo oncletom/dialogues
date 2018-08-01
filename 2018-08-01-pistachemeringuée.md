@@ -28,7 +28,7 @@ interval: 2018-08-01T09:00+0200/2018-08-01T10:20+0200
 - pourquoi monter une boîte ?
 - j'aimerais bien voir de la doc francophone sur des modèles alternatifs, un peu comme ce que fait Basecamp, créer des inspirations 
 
-## Blah blah blah
+## On écrit ce qui nous passe par la tête
 
 monter sa boîte tout·e seule ou à plusiuers
 seul je peux expérimenter, l'impression c'est que c'est moins contraignant
@@ -147,6 +147,12 @@ comment essaimer quand tout le monde connait tout (les règles, les gens)
 idem dans l'aspect entrepreunariat
 ça change tout si tu sais que tu peux poser des questions
 si la personne le dit pas explicitement, tu sais jamais vraiment trop
+
+
+## On itère sur un premier bloc de texte jusqu'à se dire "c'est publiable"
+
+Bof, on l'a pas fait car le besoin ne se ressentait pas.
+Hop on passe à la conclusion !
 
 
 ## Clôture
